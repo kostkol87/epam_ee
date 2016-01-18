@@ -20,8 +20,4 @@
         <session-timeout>5</session-timeout>
     </session-config>
 
-    <context-param>
-        <param-name>logger-config</param-name>
-        <param-value>servletLog.properties</param-value>
-    </context-param>
 </web-app>

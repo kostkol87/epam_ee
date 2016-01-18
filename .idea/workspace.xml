@@ -2,39 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9828f015-5f3b-4cfc-933c-e716d1eb4db2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ContextLogger.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/LogOutServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/jsp/admin.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/jsp/client.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/local_en_US.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/local_ru_RU.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/logger-config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/jsp/manager.jsp" />
-      <change type="DELETED" beforePath="C:\epam_ee\out\artifacts\epam_ee_war_exploded\WEB-INF\classes\DAO\User$Roles.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\epam_ee\out\artifacts\epam_ee_war_exploded\WEB-INF\classes\DAO\User.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\epam_ee\out\artifacts\epam_ee_war_exploded\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\epam_ee\out\artifacts\epam_ee_war_exploded\index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="C:\epam_ee\src\main\java\DAO\User.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\epam_ee\target\classes\DAO\User$Roles.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\epam_ee\target\classes\DAO\User.class" afterPath="" />
-      <change type="MOVED" beforePath="C:\epam_ee\web\index.html" afterPath="$PROJECT_DIR$/web/jsp/login.jsp" />
-      <change type="MOVED" beforePath="C:\epam_ee\web\index.jsp" afterPath="$PROJECT_DIR$/web/jsp/LoginError.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/epam_ee_war_exploded/WEB-INF/classes/DAO/DBUtils.class" afterPath="$PROJECT_DIR$/out/artifacts/epam_ee_war_exploded/WEB-INF/classes/DAO/DBUtils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/DAO/DBUtils.class" afterPath="$PROJECT_DIR$/target/classes/DAO/DBUtils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/epam_ee_war_exploded/WEB-INF/classes/LoginServlet.class" afterPath="$PROJECT_DIR$/out/artifacts/epam_ee_war_exploded/WEB-INF/classes/LoginServlet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/LoginServlet.class" afterPath="$PROJECT_DIR$/target/classes/LoginServlet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.ids" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/DAO/DBUtils.java" afterPath="$PROJECT_DIR$/src/main/java/DAO/DBUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/LoginServlet.java" afterPath="$PROJECT_DIR$/src/main/java/LoginServlet.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf/context.xml" afterPath="$PROJECT_DIR$/conf/context.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/epam_ee.iml" afterPath="$PROJECT_DIR$/epam_ee.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf/server.xml" afterPath="$PROJECT_DIR$/conf/server.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf/tomcat-users.xml" afterPath="$PROJECT_DIR$/conf/tomcat-users.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/epam_ee_war_exploded/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/out/artifacts/epam_ee_war_exploded/WEB-INF/web.xml" />
+      <change type="DELETED" beforePath="C:\epam_ee\src\main\java\ContextLogger.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\epam_ee\web\WEB-INF\logger-config" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -148,10 +117,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DBUtils.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DBUtils.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/DAO/DBUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1377">
+            <state vertical-scroll-proportion="2.4285715" vertical-offset="0" max-vertical-offset="1377">
               <caret line="51" column="139" selection-start-line="51" selection-start-column="57" selection-end-line="51" selection-end-column="139" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -161,33 +130,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ContextLogger.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ContextLogger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4135135" vertical-offset="0" max-vertical-offset="1020">
-              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="logger-config" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/logger-config">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
-              <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="155" max-vertical-offset="544">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="106" max-vertical-offset="476">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -286,8 +233,8 @@
         <option value="$PROJECT_DIR$/src/main/java/Log4JInitListener.java" />
         <option value="$PROJECT_DIR$/conf/web.xml" />
         <option value="$PROJECT_DIR$/web/WEB-INF/logger-config" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/java/ContextLogger.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
       </list>
     </option>
   </component>
@@ -943,16 +890,23 @@
       <created>1452950381147</created>
       <option name="number" value="Default" />
       <updated>1452950381147</updated>
-      <workItem from="1452950384508" duration="41044000" />
+      <workItem from="1452950384508" duration="41206000" />
     </task>
+    <task id="LOCAL-00001" summary="Login application comlete">
+      <created>1453138219543</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1453138219543</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41044000" />
+    <option name="totallyTimeSpent" value="41206000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1552" height="840" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -975,7 +929,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4378531" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32909605" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21715818" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21715818" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32909605" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1001,6 +955,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="Login application comlete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Login application comlete" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1214,7 +1170,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/DAO/DBUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="800" max-vertical-offset="1377">
+        <state vertical-scroll-proportion="2.4285715" vertical-offset="0" max-vertical-offset="1377">
           <caret line="51" column="139" selection-start-line="51" selection-start-column="57" selection-end-line="51" selection-end-column="139" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1271,29 +1227,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/logger-config">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
-          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="155" max-vertical-offset="544">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="106" max-vertical-offset="476">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ContextLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4135135" vertical-offset="0" max-vertical-offset="1020">
-          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
