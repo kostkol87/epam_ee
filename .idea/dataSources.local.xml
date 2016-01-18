@@ -4,5 +4,11 @@
     <data-source name="SQLite -" uuid="8de988ad-6e69-4052-af6c-56c5ee4754d8">
       <secret-storage>master_key</secret-storage>
     </data-source>
+    <data-source name="MySQL - testdb@188.120.239.16" uuid="6ab02cc5-72c8-4930-9b25-e28332c89918">
+      <secret-storage>memory</secret-storage>
+      <user-name>admin</user-name>
+      <schema-pattern>testdb.*</schema-pattern>
+      <default-schemas>testdb.*</default-schemas>
+    </data-source>
   </component>
 </project>
